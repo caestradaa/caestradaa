@@ -5,13 +5,16 @@ As an engineer, I have developed strong skills in BI and data analysis tools suc
 
 You can contact me directly through my [LinkedIn](https://www.linkedin.com/in/caestradaa/) or send me an email to 📩 camilo.estrada.14@gmail.com
 
+
 📊 Currently working on...
 - A Dash app project to compare different quality of life indicators by neighborhood in Buenos Aires, ARG.
+
 
 📊 Project Repositories:
 - Project 1: [Effect of Vaccines on Covid-19 fatality rate in Colombia](https://github.com/caestradaa/covid_fatality_in_Col) (SQL/Python)
 - Project 2: [Real Estate Market Analysis in the city of Barranquilla, CO](https://github.com/caestradaa/real_estate_daproj) (PowerBI/Excel)
 - Project 3: [Pasta Moisture Data Analysis](https://github.com/caestradaa/pasta_moisture_daproj) (PowerBI/Excel/Infostat)
+
 
 📊 Technologies and Tools: 
 - MS Excel
