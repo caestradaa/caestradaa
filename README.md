@@ -6,6 +6,8 @@ As an engineer, I have developed strong skills in BI and data analysis tools suc
 
 You can contact me directly through LinkedIn or send me an email to 📩 camilo.estrada.14@gmail.com
 
+- I'm currently working on a Dash app project to compare different quality of life indicators by neighborhood in Buenos Aires, ARG.
+
 📊 Technologies and Tools: 
 - MS Excel
 - MS Power BI
