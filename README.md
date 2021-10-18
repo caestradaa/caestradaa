@@ -1,4 +1,4 @@
-# Hi! Welcome to my Project Portfolio!
+# Hi! Welcome to my Project Portfolio! 💼
 
 I'm a Business Intelligence Analyst, passionate about data, business analytics and technology. Currently I'm an MBA candidate with a mayor in Information Systems. 
 
@@ -8,9 +8,10 @@ The aspects that I find most rewarding to me are related to business development
 
 You can contact me directly through Linkedin or send me an email to 📩 camilo.estrada.14@gmail.com
 
-👁️‍🗨️ Technologies: 
+📊 Technologies: 
 - MS Excel
 - MS Power BI
 - SQL: SQL, T-SQL, SQL Server
-- Pyhon: pandas, seborn, Dash
-📊 Business Intelligence | Data Analysis
+- Pyhon: pandas, numpy, seborn, plotly, Dash.
+
+Business Intelligence | Data Analysis
