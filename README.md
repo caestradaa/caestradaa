@@ -6,10 +6,10 @@ As an engineer, I have developed strong skills in BI and data analysis tools suc
 
 You can contact me directly through LinkedIn or send me an email to 📩 camilo.estrada.14@gmail.com
 
-📊 Technologies: 
+📊 Technologies and Tools: 
 - MS Excel
 - MS Power BI
-- SQL: SQL, T-SQL, SQL Server
+- SQL: SQL, T-SQL, SQL Server, Azure Data 
 - Pyhon: pandas, numpy, seborn, plotly, Dash.
 
 Business Intelligence | Data Analysis
