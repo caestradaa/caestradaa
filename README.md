@@ -1,4 +1,5 @@
-# Hi! Welcome to my Project Portfolio! 💼
+# Hi, I'm Camilo!
+Welcome to my Project Portfolio! 💼
 
 I'm a Business Intelligence Analyst and MBA candidate with a mayor in Information Systems. I'm passionate about data, business analytics and technology. As an engineer, I have developed strong skills in BI and data analysis tools such as Excel, Power BI, SQL and Python, applied to the continuous improvement of processes and decision making in operations. I enjoy generating new ideas, learning and taking on new challenges with great commitment and determination.
 
