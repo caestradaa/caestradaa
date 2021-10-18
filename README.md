@@ -9,7 +9,7 @@ You can contact me directly through LinkedIn or send me an email to 📩 camilo.
 📊 Technologies and Tools: 
 - MS Excel
 - MS Power BI
-- SQL: SQL, T-SQL, SQL Server, Azure Data 
+- SQL: SQL, T-SQL, SQL Server, Azure Data Studio
 - Pyhon: pandas, numpy, seborn, plotly, Dash.
 
 Business Intelligence | Data Analysis
