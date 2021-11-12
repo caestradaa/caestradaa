@@ -6,7 +6,7 @@ You can contact me directly through my [LinkedIn](https://www.linkedin.com/in/ca
 
 
 ### ⛏️ I'm currently working on:
-- A Dash app project to compare different quality of life indicators by neighborhood in Buenos Aires, ARG.
+- A **Dash app** project to compare different quality of life indicators by neighborhood in Buenos Aires, ARG.
 
 
 ### 💼 Project Repositories
